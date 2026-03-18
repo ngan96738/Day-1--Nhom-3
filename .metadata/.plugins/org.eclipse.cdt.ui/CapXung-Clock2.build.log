@@ -1,0 +1,10 @@
+09:54:53 **** Incremental Build of configuration Debug for project CapXung-Clock2 ****
+make -j12 all 
+arm-none-eabi-size  CapXung-Clock2.elf 
+   text	   data	    bss	    dec	    hex	filename
+    900	      0	   1568	   2468	    9a4	CapXung-Clock2.elf
+Finished building: default.size.stdout
+ 
+
+09:54:53 Build Finished. 0 errors, 0 warnings. (took 146ms)
+
